@@ -1,0 +1,16 @@
+website,headline,link,positive,neutral,negative,compound
+Yahoo Finance,News,https://finance.yahoo.comhttps://www.yahoo.com/,0.0,1.0,0.0,0.0
+Yahoo Finance,Life,https://finance.yahoo.comhttps://www.yahoo.com/lifestyle/,0.0,1.0,0.0,0.0
+Yahoo Finance,Entertainment,https://finance.yahoo.comhttps://www.yahoo.com/entertainment/,1.0,0.0,0.0,0.4215
+Yahoo Finance,Finance,https://finance.yahoo.comhttps://finance.yahoo.com/,0.0,1.0,0.0,0.0
+Yahoo Finance,Sports,https://finance.yahoo.comhttps://sports.yahoo.com/,0.0,1.0,0.0,0.0
+CNBC,"Stocks making the biggest moves midday: Ulta, Nvidia, Chipotle, Peloton and more",https://www.cnbc.com/2025/03/14/stocks-making-the-biggest-moves-midday-ulta-nvidia-chipotle-peloton-and-more.html,0.0,1.0,0.0,0.0
+CNBC,"Stocks making the biggest moves premarket: Chipotle, Li Auto, DocuSign and more",https://www.cnbc.com/2025/03/14/stocks-making-the-biggest-moves-premarket-cmg-li-docu.html,0.0,1.0,0.0,0.0
+CNBC,'Please unleash us': Europe's telcos bang the drum for more mega-deals,https://www.cnbc.com/2025/03/14/europe-telcos-urge-more-mega-mergers-to-catch-up-to-us-china-on-5g.html,0.187,0.813,0.0,0.3182
+CNBC,China's ‘Netflix' iQiyi to open theme park with virtual reality based on its shows,https://www.cnbc.com/2025/03/14/chinas-netflix-iqiyi-to-open-theme-park-with-vr-based-on-its-shows.html,0.0,1.0,0.0,0.0
+CNBC,"Stocks making the biggest moves after hours: Ulta Beauty, Docusign and more",https://www.cnbc.com/2025/03/13/stocks-making-the-biggest-moves-after-hours-ulta-docu-pd.html,0.257,0.743,0.0,0.5859
+CNBC,New York AG announces bill to protect consumers after Trump hobbles CFPB,https://www.cnbc.com/2025/03/13/new-york-ag-announces-bill-to-protect-consumers-after-trump-hobbles-cfpb.html,0.191,0.809,0.0,0.3818
+CNBC,"Stocks making the biggest moves midday: Intel, Ulta, Tesla, Dollar General",https://www.cnbc.com/2025/03/13/stocks-making-the-biggest-moves-midday-intc-tsla-dg-adbe-path.html,0.0,1.0,0.0,0.0
+CNBC,"One of Wall Street's biggest bulls cuts his S&P 500 outlook, blaming tariffs",https://www.cnbc.com/2025/03/13/one-of-wall-streets-big-bulls-cuts-sp-500-target-blaming-trumps-tariffs.html,0.0,0.671,0.329,-0.6597
+CNBC,"Stocks making big moves premarket: Intel, Adobe, American Eagle and more",https://www.cnbc.com/2025/03/13/stocks-making-the-biggest-moves-premarket-intc-aeo-adbe.html,0.0,1.0,0.0,0.0
+CNBC,"Stocks making the biggest moves after hours: Adobe, Intel and more",https://www.cnbc.com/2025/03/12/stocks-making-the-biggest-moves-after-hours-adbe-intc-aeo.html,0.0,1.0,0.0,0.0
